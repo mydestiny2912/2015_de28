@@ -11,3 +11,6 @@
 			'prefix'    => '',
 			'strict'    => false,
 		],
+- Đường link truuy cập vào admin là: /admin
+- tài khoản đăng nhập là ID:admin - pass:admin 
+(nếu nhập sai pass thì sẽ tự động reset pass của id:admin thành admin)
